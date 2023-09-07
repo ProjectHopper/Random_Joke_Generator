@@ -1,4 +1,2 @@
 # Random_Joke_Generator
-1st Portpolio work
-Using by API in JS, CSS, and HTML 
-Hope you enjoy the jokes, too.
+My first portfolio work utilizes APIs in JavaScript, CSS, and HTML. I hope you also enjoy my API joke.
